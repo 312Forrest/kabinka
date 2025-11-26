@@ -1,0 +1,5 @@
+{
+  "name": "Virtuální zkušební kabinka",
+  "description": "Aplikace, která využívá umělou inteligenci k virtuálnímu zkoušení oblečení. Nahrajte své selfie a obrázek oblečení a uvidíte se v něm. Vygenerovaný obrázek pak můžete dále upravovat pomocí textových pokynů.",
+  "requestFramePermissions": []
+}
